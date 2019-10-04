@@ -1,1 +1,1 @@
-include ':app', ':httpupload'
+include ':app', ':httpupload', ':randomaccessfile'
